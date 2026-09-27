@@ -1,0 +1,6 @@
+{
+  "name": "Poster Bro",
+  "description": "Design studio and drag-and-drop poster maker with customizable templates, rich graphics, and professional export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
